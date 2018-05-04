@@ -1,8 +1,4 @@
 # Rys Git Tutorial - A wonderful book to learn how to use "Git"
-# Work through the book and put repositories 1 through 11 here
-
-
-These are the repostories for all the chapters.
 # Eventhough in PDF version, there is a link in every chapter to download the repository of the last chapter
 # the links are broken. 
 
@@ -20,4 +16,4 @@ Chapters:
 10. Patches
 11. Tips and tricks
 
-# rys-git-tutorial-repositories
+
