@@ -1,9 +1,9 @@
 # Rys Git Tutorial - A wonderful book to learn how to use "Git"
-# Eventhough in PDF version, there is a link in every chapter to download the repository of the last chapter
+# Even though in PDF version, there is a link in every chapter to download the repository of the last chapter
 # the links are broken. 
 
 Here are the repostories
-Chapters:
+
 1. The basics
 2. Undoing changes
 3. Branches i
